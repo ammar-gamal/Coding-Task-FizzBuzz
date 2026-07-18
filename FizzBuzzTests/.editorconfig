@@ -1,0 +1,20 @@
+#based on the Google Style Guides
+root = true
+
+[*.cs]	
+indent_style = space
+indent_size = 2
+tab_width = 2
+max_line_length = 100
+
+csharp_new_line_before_open_brace = none
+csharp_new_line_before_else = false
+csharp_space_after_keywords_in_control_flow_statements = true
+
+csharp_space_between_parentheses = none
+
+
+csharp_space_after_unary_operator = false
+
+
+csharp_space_around_binary_operators = before_and_after
